@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*cobertura.xml
 
 # Distribution / packaging
 .Python
